@@ -42,7 +42,7 @@ Analysis of Agricultural Output in Ukraine and a Comparative Study of Agricultur
 ### 1. Загальний випуск продуктів (Україна vs Польща, млн $)
 *Порівнює випуск с/г продуктів (без врахування послуг і невід’ємної вторинної діяльністі).*
 
-<img width="454" height="513" alt="Загальний випуск" src="https://github.com/user-attachments/assets/41cb20cd-c1ae-4306-a65d-6f61a2267178" />
+<img width="911" height="470" alt="випуск_на_гектар" src="https://github.com/user-attachments/assets/b7397418-4e16-405d-a733-a6e89a045ff1" />
 
 
 #### Структурні моделі
