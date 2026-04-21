@@ -77,8 +77,7 @@ Analysis of Agricultural Output in Ukraine and a Comparative Study of Agricultur
 ### 2. Випуск продуктів на один гектар ($)
 *Аналізує інтенсивність використання земельних ресурсів.*
 
-<img width="454" height="513" alt="На один гектар" src="https://github.com/user-attachments/assets/f3a72377-91d5-4cd6-a291-3ca7f1eae3b2" />
-
+<img width="911" height="470" alt="випуск_на_гектар" src="https://github.com/user-attachments/assets/8054e89c-fe22-4ff0-8a4e-e4cf1bdce01a" />
 #### Порівняльна ефективність землекористування
 
 Дані візуалізації наочно демонструють глибоку прірву в ефективності між двома країнами. У 2021 році (найкращому для України)  випуск на гектар в Україні склав:
