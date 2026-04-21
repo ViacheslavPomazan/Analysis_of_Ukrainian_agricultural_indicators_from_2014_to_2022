@@ -121,6 +121,9 @@ Analysis of Agricultural Output in Ukraine and a Comparative Study of Agricultur
 
 <img width="454" height="513" alt="На одного зайнятого" src="https://github.com/user-attachments/assets/164b6f40-f0f8-4acc-8c24-f46cc47b6ee2" />
 
+<img width="911" height="470" alt="випуск_на_зайнятого" src="https://github.com/user-attachments/assets/7a7a5a03-de57-4c98-b62c-0833e208e1fc" />
+
+
 #### Аналіз продуктивності праці
 
 Розрахунок проводиться як відношення вартості випущеної продукції до кількості людей, зайнятих у секторі.
