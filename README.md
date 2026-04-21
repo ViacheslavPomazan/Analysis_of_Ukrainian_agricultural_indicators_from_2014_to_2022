@@ -1,3 +1,4 @@
+
 # Analysis_of_Ukrainian_agricultural_indicators_from_2014_to_2022
 Analysis of Agricultural Output in Ukraine and a Comparative Study of Agricultural Efficiency Between Ukraine and Poland.
 
@@ -42,8 +43,7 @@ Analysis of Agricultural Output in Ukraine and a Comparative Study of Agricultur
 ### 1. Загальний випуск продуктів (Україна vs Польща, млн $)
 *Порівнює випуск с/г продуктів (без врахування послуг і невід’ємної вторинної діяльністі).*
 
-<img width="911" height="470" alt="випуск_на_гектар" src="https://github.com/user-attachments/assets/b7397418-4e16-405d-a733-a6e89a045ff1" />
-
+<img width="454" height="513" alt="Загальний випуск" src="https://github.com/user-attachments/assets/0d398495-2fbd-4381-80ec-2606c66060ba" />
 
 #### Структурні моделі
 
